@@ -9,7 +9,7 @@ import ChatPage from './pages/chat/ChatPage'
 import RegisterPage from './pages/auth/RegisterPage'
 import LoginPage from './pages/auth/LoginPage'
 
-// hello world
+// hello world kjdbvbhdsbvuydsgvdvdgvhjhsdhv
 
 const browserRouter = createBrowserRouter([
   {
@@ -17,7 +17,7 @@ const browserRouter = createBrowserRouter([
     element: <MainLayout />,
     children: [
       {
-        path: '/',
+        path: '/home',
         element: <HomePage />
       },
       {
