@@ -9,6 +9,8 @@ import ChatPage from './pages/chat/ChatPage'
 import RegisterPage from './pages/auth/RegisterPage'
 import LoginPage from './pages/auth/LoginPage'
 
+// hello world
+
 const browserRouter = createBrowserRouter([
   {
     path: "/",
